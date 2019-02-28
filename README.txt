@@ -9,3 +9,8 @@ Your objectives:
 5.) Make a merge request to my repo. 
 
 
+Suggested resources: 
+
+https://www.tutorialspoint.com/unix/unix-basic-operators.htm
+https://www.gnu.org/software/bash/manual/html_node/Bash-Conditional-Expressions.html
+https://bash.cyberciti.biz/guide/Main_Page
